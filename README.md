@@ -3,7 +3,7 @@
  <img alt="logo" height="200px" src="img\logo.png">
 </div>
 
-<h1 align="center"> MNIST手写数字识别项目</h1>
+<h1 align="center"> MNIST手写数字识别项目 </h1>
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/github/license/gdmuna/mnist">
