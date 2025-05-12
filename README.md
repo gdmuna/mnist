@@ -1,4 +1,22 @@
-# MNIST手写数字识别项目
+
+<div align="center">
+ <img alt="logo" height="200px" src="img\logo.png">
+</div>
+
+<h1 align="center"> MNIST手写数字识别项目</h1>
+
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/gdmuna/mnist">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gdmuna/mnist">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/gdmuna/mnist?include_prereleases">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gdmuna/mnist">
+</p>
+<p align="center">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gdmuna/mnist">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gdmuna/mnist">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/gdmuna/mnist/total">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/gdmuna/mnist?style=social">
+</p>
 
 这是一个使用PyTorch实现的MNIST手写数字识别项目，采用了现代化的CNN架构和训练策略。
 
